@@ -13,9 +13,7 @@ using namespace System::Security::Permissions;
 [assembly:AssemblyProductAttribute(L"TaiTanXing.Ctp.CtpProxy")];
 [assembly:AssemblyDescriptionAttribute(L"TaiTanXing.Ctp.CtpProxy")];
 [assembly:AssemblyCompanyAttribute(L"TTX")];
-//[assembly:AssemblyCompanyAttribute(L"东莞市泰坦星投资管理有限公司")];
 [assembly:AssemblyCopyrightAttribute(L"Copyright 2018")];
-//[assembly:AssemblyTrademarkAttribute(L"泰坦星投资 www.taitanxing.com")];
 [assembly:AssemblyConfigurationAttribute(L"")];
 [assembly:AssemblyCultureAttribute(L"")];
 
